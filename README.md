@@ -140,5 +140,3 @@ Extend to multi-class sentiment classification
 
 Deploy as a web application
 
-✅ Create requirements.txt file
-✅ Help you upload this project step-by-step on GitHub
